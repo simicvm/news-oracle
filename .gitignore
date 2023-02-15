@@ -1,0 +1,8 @@
+*.csv
+*.pdf
+*.ipynb
+__*
+*_checkpoints
+.DS_Store
+.vscode
+.streamlit
